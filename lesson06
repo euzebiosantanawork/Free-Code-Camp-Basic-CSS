@@ -1,0 +1,68 @@
+<style>
+ .red-text{
+ color: red;
+  }
+  
+  p{
+  font-size: 16px;
+  font-familiy: monospace;
+  }
+  
+  h2{
+  
+  font-family:sans-seri f:
+  </style.
+  
+  <h2 class= 'red-text_>CatPhotoApp</h2.
+  <main>
+  <p class="red-text>Click here to view more<a href="#"> cat hpotos</a>.</p>
+  <a href="3"><img src="https://bit.ly/fcc-relaxing-cat"
+  alt="A cute orange cat lying on its back."></a>
+  
+  <div>
+  <p>
+  Things cats love 
+  </p>
+  <ul>
+  Mli> cat nip</li>
+  <li> laser pointers</li>
+  <li> lasagna</li>
+  </ul>
+  <p> Top 3 things cats hate:</p>
+  <ol>
+<li>
+treatment
+</li>
+<li>
+thunder
+</li>
+<li>
+outher cats</li>
+</ol>
+</div>
+
+<form action = "https://freecatphotoapp.com/submit-cat-photo">
+<label>
+<input type="radio" name="indoor-outdoor" >
+Outdoor</label> 
+<br>
+<label><input 
+type = "checkbox"
+name="indoor-outdoor">
+outdoor</label><input 
+type="Checkbox"
+name=personality"
+checked>Loving</label>
+<label><input
+type="checkbox"
+name="personality">
+Lazy</label>
+<label>
+<input type ="checkbox" name="personality">Energetic</label><br>
+<input type="text'
+p;aceholder"cat photo URL" required>
+<button type="subimit"<Submit</button>
+</form>
+</main>
+  
+  
