@@ -1,0 +1,22 @@
+/*
+
+You can use absolute and relative units like
+px and em in CSS Grid to define the size of 
+rows and columns. You can use these as well:
+
+
+
+COMMENTS:
+fr: sets the column or row to fraction of hte avaible space,
+auto: sets the column or row to the width or height of its content automatically.
+% adjusts the column or row the percent widht of its container
+
+*/
+
+grid-template-columns: auto 50px 10% 2fr 1fr;
+
+/*
+
+
+
+*/
